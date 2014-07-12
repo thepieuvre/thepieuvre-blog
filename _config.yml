@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "The Pieuvre - Blog"
+tagline:          "This is the Pieuvre's personal blog : news, technical, etc."
+description:      "This is the Pieuvre's personal blog : news, technical, etc."
+url:              http://blog.thepieuvre.com
+
+author:
+  name:           'Alexandre di Costanzo'
+  url:            http://www.alexdico.com
+
+paginate:         1
+
+# Custom vars
+version:          1.0
+
+github:
+  repo:           github.com/thepieuvre/thepieuvre-blog
+
+# This is the list of pages to incldue in the header of the website.
+pages_list:       {'Archive':'/archive','Feed':'/atom.xml'}
