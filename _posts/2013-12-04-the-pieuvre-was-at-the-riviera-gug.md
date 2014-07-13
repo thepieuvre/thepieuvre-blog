@@ -6,17 +6,25 @@ tags:
 - groovy
 - grails
 - gug
-tumblr_url: http://blog.thepieuvre.com/post/69003767133/the-pieuvre-was-at-the-riviera-gug
+comments: true
 ---
 I would like to thank all the guys and Corinnne for coming at the GUG. It was great sharing Groovy/Grails with you.
-Here is the presentation:
 
-A pic:
+####Here is the presentation####
 
-@adicosta @RivieraGUG. And here is the picture pic.twitter.com/imVMsTj8g1
-— corinne (@corinnekrych) December 3, 2013
+<iframe frameborder="0" height="541" src="https://docs.google.com/presentation/d/1fWWytQQnetZyIxKdjdXUPfAkkfMbnPo_429OHa9P-VA/embed?start=false&amp;loop=false&amp;delayms=3000" width="683"></iframe>
+
+####A pic####
+
+<blockquote class="twitter-tweet">
+<p><a href="https://twitter.com/adicosta">@adicosta</a> <a href="https://twitter.com/RivieraGUG">@RivieraGUG</a>. And here is the picture <a href="http://t.co/imVMsTj8g1">pic.twitter.com/imVMsTj8g1</a></p>
+<div>&mdash; corinne (@corinnekrych)</div>
+<a href="https://twitter.com/corinnekrych/statuses/407769545748004864">December 3, 2013</a></blockquote>
+<p>
+<script charset="utf-8" src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+</p>
 
 
+####The GUG####
 
-The GUG:
-http://www.meetup.com/Riviera-Groovy-Grails-User-Group/events/152111492/
+[http://www.meetup.com/Riviera-Groovy-Grails-User-Group/events/152111492/](http://www.meetup.com/Riviera-Groovy-Grails-User-Group/events/152111492/)

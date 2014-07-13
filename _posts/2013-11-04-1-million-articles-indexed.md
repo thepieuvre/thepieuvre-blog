@@ -6,7 +6,7 @@ tags:
 - index
 - search
 - news
-tumblr_url: http://blog.thepieuvre.com/post/65984518496/1-million-articles-indexed
+comments: true
 ---
 Last night, the Pieuvre indexed the millionth article in her system!
 
