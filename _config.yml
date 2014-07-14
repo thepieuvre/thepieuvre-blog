@@ -25,3 +25,5 @@ github:
 
 # This is the list of pages to incldue in the header of the website.
 pages_list:       {'Archive':'/archive','Feed':'/atom.xml'}
+
+baseurl:          http://blog.thepieuvre.com
